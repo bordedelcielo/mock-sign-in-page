@@ -1,0 +1,142 @@
+/**, *::after, *::before {
+    box-sizing: border-box; /* 1 */
+/*} */
+
+.logo {
+    position: relative;
+    margin-left:45%;
+}
+
+.container {
+    border-color: grey;
+    border-style: solid;
+    border-width: 1px;
+    position:relative;
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top: 5%;
+    padding: 0%
+}
+
+/*.container {
+    border: 1px grey;
+    max-width: 300px;
+    width: 100%;
+
+    height: 50vh;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+
+    position:absolute;
+    right: 0;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+}*/
+
+.container_content {
+    padding: 2.5%;
+}
+
+h1 {
+    margin-top: 0%;
+    margin-left: 2%;
+    margin-bottom: 1%;
+}
+
+.textbox {
+    width: 100%;
+    padding-right: 5%;
+}
+
+input {
+    width: 100%;
+}
+
+.forgot_pw {
+    border-left: ;
+}
+
+
+#sign_in {
+    position:relative;
+    margin-left: 0%;
+    height:3%;
+    width: 100%;
+    padding: 0%;
+    background:rgb(255, 166, 0)
+}
+
+/* My original version of this class.*/
+.new_to_amzn {
+    border-width: 1px;
+    max-width: 115px;
+    margin-left: 44.5%;
+    margin-top: 2%;
+    padding: 0%;
+    background-color: white;
+}
+
+.create_acc {
+    position:relative;
+    margin-left: 42.5%;
+    margin-right: 40%;
+    height: 10%;
+    width: 50%;
+    padding: 0%;
+    margin-top: 1%;
+    margin-bottom: 0%;
+}
+
+#create {
+    position:relative;
+    margin-left: -11%;
+    height: 25px;
+    width: 50%;
+    padding: 0%;
+}
+
+.footer_stuff {
+    margin-left: 52%;
+}
+
+.ft_div {
+    margin-left: 35%
+}
+
+.sep {
+    width: 150px;
+}
+
+.help {
+    width: 75px;
+}
+
+.copyright {
+    
+}
+
+.base_div {
+    margin-left: 38%;
+}
+
+.create_line {
+    height: 4%;
+}
+
+.forgot_pw_2 {
+    margin-left: 35%;
+}
+
+.forgot_p {
+}
+
+.email {
+    margin-bottom: 16px;
+    margin-top: 4px;
+}
+
+.need_help {
+}
